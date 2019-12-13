@@ -2,6 +2,8 @@ RENCANA KONTEN
 
 - VIDEO MENGENAI JAVASCRIPT
  e6
+ vue js
 - Struktur Data dasar
 - VIDEO MENGENAI PHP
+laravel
 - INTERVIEW
